@@ -1,4 +1,4 @@
-# Running-the-Bulls
+# Running-of-the-Bulls
 A game where player tries to outrun the bulls and reach the finish line inside a maze.
 The player is controlled by the arrow keys of the keyboard while the bulls move automatically over each move of the player.
 The bulls are faster than the player, therefore player is given some free moves before the bulls start moving.
