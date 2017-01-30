@@ -1,0 +1,25 @@
+
+.space{
+	-fx-background-color: black;
+}
+.wall{
+	-fx-background-color: none;
+}
+.startAndEnd{
+	-fx-text-fill:white;
+	-fx-background-color: blue;
+	-fx-font: 15 arial;
+	-fx-font-weight: bold;
+}
+.fool{
+	-fx-text-fill:white;
+	-fx-background-color: green;
+	-fx-font: 15 arial;
+	-fx-font-weight: bold;
+}
+.bull{
+	-fx-text-fill:white;
+	-fx-background-color: red;
+	-fx-font: 15 arial;
+	-fx-font-weight: bold;
+}
